@@ -7,7 +7,7 @@ from matplotlib.finance import quotes_historical_yahoo_ohlc, candlestick_ohlc
 
 
 # (Year, month, day) tuples suffice as args for quotes_historical_yahoo
-date1 = (2004, 2, 1)
+date1 = (2004, 3, 1)
 date2 = (2004, 4, 12)
 
 
